@@ -1,4 +1,4 @@
-//set up an vm instance in gcp
+//set up a vm instance in gcp using terraform
 terraform {
   required_providers {
     google = {
